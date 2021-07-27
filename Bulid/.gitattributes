@@ -1,1 +1,2 @@
 Bulid/3D[[:space:]]RPG[[:space:]]make_Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
+Bulid filter=lfs diff=lfs merge=lfs -text
