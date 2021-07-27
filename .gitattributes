@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.psd filter=lfs diff=lfs merge=lfs -text
+Bulid filter=lfs diff=lfs merge=lfs -text
+C:/Users/alstj/Desktop/3DUnityGame/3DUnityGame/Bulid filter=lfs diff=lfs merge=lfs -text
